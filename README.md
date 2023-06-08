@@ -22,4 +22,4 @@
 
 Tome is a static storage system for content, allowing you to keep your content up to date without the need of a database.
 
-See the project page for more details: https://www.drupal.org/project/tome
+See the project page for more details: https://www.drupal.org/project/tome 
