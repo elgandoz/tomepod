@@ -25,3 +25,6 @@
 
 # Ignore auto-generated environmet files
 /.ddev/docker-compose.host-docker-internal.yaml
+
+# Ignore tome-generated files
+/html

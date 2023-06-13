@@ -36,5 +36,5 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3.9.3
         with:
           PUBLISH_BRANCH: gh-pages-build
-          PUBLISH_DIR: ./html/drupalpod-tome-starterkit
+          PUBLISH_DIR: ./html/tomepod
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
