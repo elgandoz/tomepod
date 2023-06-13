@@ -5,6 +5,3 @@ RUN sudo apt-get -qq update
 
 # Install ddev
 RUN brew update && brew install drud/ddev/ddev
-
-# Install latest composer
-RUN brew install composer
